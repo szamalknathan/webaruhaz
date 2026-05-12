@@ -1,11 +1,11 @@
 main {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-areas:
-    "h h h"
-    "n n n"
-    "ar ar as"
-    "f f f";
+    "h h"
+    "n n"
+    "ar as"
+    "f f";
 }
 
 img {
